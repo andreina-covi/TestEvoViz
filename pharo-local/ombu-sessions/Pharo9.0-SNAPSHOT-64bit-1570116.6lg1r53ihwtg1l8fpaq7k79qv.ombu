@@ -1,0 +1,1 @@
+OmEntry {	#tags : {		#author : 'Unknown',		#time : DateAndTime [ '2021-01-25T15:24:49.402991-04:00' ],		#prior : OmReference [ 'Pharo9.0-SNAPSHOT-64bit-1570116.bhepeyftpn113cc3yxrsuzbev', '12664' ],		#self : OmReference [ '1' ]	},	#content : EpSessionSnapshot {		#imageName : '/Users/leela/Documents/TestEvoViz/ArtifactTestEvoViz/Baseline.image'	}}

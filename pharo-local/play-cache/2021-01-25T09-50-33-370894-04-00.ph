@@ -1,1 +1,0 @@
-Metacello new  baseline: 'DataFrame';  repository: 'github://PolyMathOrg/DataFrame/src';  load.
