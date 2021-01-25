@@ -1,0 +1,1 @@
+Metacello new baseline:'SmallSuiteGenerator'; repository: 'github://OBJECTSEMANTICS/SmallSuiteGenerator:updateOfVisualization/src'; load: #('All').

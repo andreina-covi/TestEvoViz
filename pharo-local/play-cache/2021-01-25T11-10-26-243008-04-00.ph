@@ -1,0 +1,1 @@
+Metacello new baseline:'SmallSuiteGenerator'; repository: 'github://OBJECTSEMANTICS/SmallSuiteGenerator:updateOfVisualization/src'; load: #('All').Metacello new  repository: 'github://svenvc/NeoJSON/repository';  baseline: 'NeoJSON';  load.
