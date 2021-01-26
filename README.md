@@ -6,6 +6,8 @@ The repository includes the artifacts to replicate the case studies of TestEvoVi
 
 After downloading the repository, uncompres Pharo-Images.zip file (it includes the Pharo images to execute). Copy all the files of Pharo-Images folder at ArtifactTestEvoViz folder (folder of repository).
 
+<img src="Images/UncompressAndCopy.png" width="500">
+
 You can delete the Pharo-Images.zip and Pharo-Images folder if you like.
 
 ## SmallSuiteGenerator and TestEvoViz examples
@@ -41,12 +43,12 @@ Pharo.exe ..\Baseline.image
 
 Execute the code using the green play button (at the top right of the window). Another option is selecting all the code with `Ctrl + A` (`Command + A` for MacOS), right click on window and select "Inspect Code" option or press `Ctrl + I` (`Command + I` for MacOS). 
 
-<img src="images/RunOrInspect.png" width="500">
+<img src="Images/RunOrInspect.png" width="500">
 
 After doing that a window will appear, asking you write your name (Is's part of Pharo).
 If the visualization window is very tiny or small you can extend it. Furthermore, there are options to zoom in or zoom out the visualization.
 
-<img src="images/exampleStack.png" width="1000">
+<img src="Images/StackExample.png" width="1000">
 
 Baseline image contains four scripts of SStack, DataFrame, Regex and NeoJSON, you can change some values of the scripts to test. Values to changes are: 
  - `numberOfIterations:`. You can change for any positive integer number greater than 1. But you must be careful with using pretty high values, e.g. greater than 50.
