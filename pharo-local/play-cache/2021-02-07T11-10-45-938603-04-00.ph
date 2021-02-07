@@ -1,0 +1,1 @@
+Metacello new baseline:'SmallSuiteGenerator'; repository: 'github://OBJECTSEMANTICS/SmallSuiteGenerator:updateOfVisualization/src'; load: #('All').Metacello new    baseline: 'Box2DLite';    repository: 'github://EiichiroIto/Box2DLiteForPharo/src';    load.
