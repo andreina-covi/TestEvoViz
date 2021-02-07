@@ -100,3 +100,20 @@ cd Pharo-Windows
 Pharo.exe ..\NeoJSON.image
 ```
 
+### Box2DLite
+
+In the same way Box2DLite image contains three examples to execute.
+
+**MacOS**
+```
+./Pharo-OSX/Pharo.app/Contents/MacOS/Pharo Box2DLite.image
+```
+**Linux**
+```
+./Pharo-Linux/pharo-ui Box2DLite.image
+```
+**Windows**
+```
+cd Pharo-Windows
+Pharo.exe ..\Box2DLite.image
+```
