@@ -1,0 +1,1 @@
+Metacello new    baseline: 'Box2DLite';    repository: 'github://EiichiroIto/Box2DLiteForPharo/src';    load.
