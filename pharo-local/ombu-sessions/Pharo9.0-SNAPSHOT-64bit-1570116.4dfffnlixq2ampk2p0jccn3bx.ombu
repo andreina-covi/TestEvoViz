@@ -1,0 +1,1 @@
+OmEntry {	#tags : {		#author : 'Unknown',		#time : DateAndTime [ '2021-10-28T13:00:16.738514-04:00' ],		#prior : OmReference [ 'Pharo9.0-SNAPSHOT-64bit-1570116.atjf6e6xsoqbvfjpfhclkkz26', '370' ],		#self : OmReference [ '1' ]	},	#content : EpSessionSnapshot {		#imageName : '/home/andreina/Documents/Github/ArtifactTestEvoViz/Experiment2.image'	}}
