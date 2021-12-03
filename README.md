@@ -133,5 +133,8 @@ In the same way Box2DLite image contains three examples to execute.
 ```
 cd Pharo-Windows
 Pharo.exe ..\Experiment2.image
+```
+
+After doing that the Pharo image will show a window similar to:
 
 <img src="Images/exp2.png" width="1000">
