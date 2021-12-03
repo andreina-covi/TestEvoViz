@@ -12,7 +12,7 @@ You can delete the Pharo-Images.zip and Pharo-Images folder if you like.
 
 ## SmallSuiteGenerator and TestEvoViz examples
 
-To replicate the case studies and visualize TestEvoViz examples, of paper, execute the next commands on Terminal where the project was downloaded.
+To replicate the case studies and visualize TestEvoViz examples, execute the next commands on Terminal where the project was downloaded.
 
 **Hint:** We do and test all experiments on Mac Book Pro, Linux (Debian Stretch) and Windows, all of 64-bits. So, it's recommendable you execute commands on 64-bits Operating System. Another way it will give an error.
 
@@ -119,7 +119,7 @@ Pharo.exe ..\Box2DLite.image
 ```
 ### Experiment 2
 
-In the same way Box2DLite image contains three examples to execute.
+In the same way Experiment2 image contains three scripts of different target classes to execute: ATM, Rectangle and Vector (Polymath project). You can configure the hyperparameters of the scripts.
 
 **MacOS**
 ```
