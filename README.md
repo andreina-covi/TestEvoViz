@@ -1,4 +1,4 @@
-# ArtifactTestEvoViz
+# TestEvoViz
 
 The repository includes the artifacts to replicate the case studies of TestEvoViz.
 
