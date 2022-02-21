@@ -4,7 +4,7 @@ The repository includes the artifacts to replicate the case studies of TestEvoVi
 
 ## Pharo images
 
-After downloading the repository, uncompres Pharo-Images.zip file (it includes the Pharo images to execute). Copy all the files of Pharo-Images folder at ArtifactTestEvoViz folder (folder of repository).
+After downloading the repository, uncompres Pharo-Images.zip file (it includes the Pharo images to execute). Copy all the files of Pharo-Images folder at TestEvoViz folder (folder of repository).
 
 <img src="Images/UncompressAndCopy.png" width="500">
 
