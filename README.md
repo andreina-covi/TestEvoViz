@@ -56,9 +56,9 @@ Baseline image contains four scripts of SStack, DataFrame, Regex and NeoJSON, yo
  - `populationSize:`. Positive integer number greater than 1. Be careful of using high values. 
  - `mutationRate:`. Positive number greater than 0 and less than 1. By default the value is 1/3.
  
- ## Experiment
+ ## Experiment (Task 1 & Task 2)
  
- For replicating the experiments shown in the paper:
+ For replicating the experiments showed in the paper:
   1. Open the image Pharo (described below)
   2. Execute the code that appears in the image (use the green play button or Inspect command, described previously).
 
@@ -117,7 +117,7 @@ In the same way Box2DLite image contains three examples to execute.
 cd Pharo-Windows
 Pharo.exe ..\Box2DLite.image
 ```
-### Task 3
+## Experiment (Task 3)
 
 In the same way Task3 image contains three scripts of different target classes to execute: ATM, Rectangle and Vector (Polymath project). You can configure the hyperparameters of the scripts.
 
