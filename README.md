@@ -1,6 +1,6 @@
 # TestEvoViz
 
-The repository includes the artifacts to replicate the case studies of TestEvoViz.
+The repository includes the artifacts to replicate the case studies of TestEvoViz. The short video tutorial of the visualization can be found in: [video-tutorial](https://drive.google.com/file/d/1Zgh-R1rFyKS9FViaObK6LlDT0xWTe1hn/view?usp=sharing)
 
 ## Pharo images
 
@@ -117,22 +117,22 @@ In the same way Box2DLite image contains three examples to execute.
 cd Pharo-Windows
 Pharo.exe ..\Box2DLite.image
 ```
-### Experiment 2
+### Task 3
 
-In the same way Experiment2 image contains three scripts of different target classes to execute: ATM, Rectangle and Vector (Polymath project). You can configure the hyperparameters of the scripts.
+In the same way Task3 image contains three scripts of different target classes to execute: ATM, Rectangle and Vector (Polymath project). You can configure the hyperparameters of the scripts.
 
 **MacOS**
 ```
-./Pharo-OSX/Pharo.app/Contents/MacOS/Pharo Experiment2.image
+./Pharo-OSX/Pharo.app/Contents/MacOS/Pharo Task3.image
 ```
 **Linux**
 ```
-./Pharo-Linux/pharo-ui Experiment2.image
+./Pharo-Linux/pharo-ui Task3.image
 ```
 **Windows**
 ```
 cd Pharo-Windows
-Pharo.exe ..\Experiment2.image
+Pharo.exe ..\Task3.image
 ```
 
 After doing that the Pharo image will show a window similar to:
